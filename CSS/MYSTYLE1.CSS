@@ -1,0 +1,25 @@
+.ftr{
+    background-color: khaki;
+    text-anchor: middle;
+    text-align: center;
+    -ms-text-size-adjust: auto;
+    padding: 12px;
+    font-family: footer, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none;
+    
+    padding:15px;
+    border-radius: 5px;
+    margin: 12px;
+}
+.l-sect img{
+        
+        width: 433px;
+        height: 35px;
+
+
+}
+header{
+    background-color: lightcoral;
+}
