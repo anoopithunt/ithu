@@ -1,8 +1,8 @@
 /* Style inputs, select elements and textareas */
-input[type=text], select, textarea{
+input[type=text],  input[type=email],input[type=date] , input[type=tel] ,select, textarea {
     width: 100%;
     padding: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(235, 224, 224);
     border-radius: 4px;
     color: rgb(6, 16, 156);
     font-weight: 900;
